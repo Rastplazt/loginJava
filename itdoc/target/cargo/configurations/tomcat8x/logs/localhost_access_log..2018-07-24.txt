@@ -1,0 +1,6 @@
+127.0.0.1 - - [24/Jul/2018:10:23:29 -0400] "GET /cargocpc/index.html HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:10:23:45 -0400] "GET /spring-security-hibernate-integration-example/login HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:10:23:50 -0400] "GET /login HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:10:23:54 -0400] "GET / HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:10:36:08 -0400] "GET / HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:10:36:14 -0400] "GET /spring-security-hibernate-integration-example/login HTTP/1.1" 404 -
